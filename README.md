@@ -8,7 +8,7 @@ To use this as basis for a new portlet project:
 - rename the cloned dir to new-name
 - cd into it
 - rm -rf .git/
-- sed -i 's/base-service/new-name/g' `grep -rl base-service *`
+- sed -i 's/base-service/new-name/g' \`grep -rl base-service *\`
 - git init .
 
 etc.
