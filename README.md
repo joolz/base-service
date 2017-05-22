@@ -1,4 +1,4 @@
-# Liferay portlet with service (data model)
+# Liferay 6.2EE portlet with service (data model)
 
 Use as base for test/poc/debug portlets.
 
